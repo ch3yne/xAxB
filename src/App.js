@@ -104,7 +104,7 @@ class App extends Component {
           content: (
             <div>
               <div style={{ fontSize: '20px' }}>{ init }</div>
-              <p>your conuts: { count }</p>
+              <p>your counts: { count }</p>
             </div>
           ),
           onOk() {
